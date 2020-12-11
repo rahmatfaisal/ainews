@@ -1,2 +1,2 @@
-# ainews
+# Indo Analytics
 Analytical Indonesia News Data
